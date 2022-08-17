@@ -3,7 +3,7 @@ My name is Keanu Hansen, and I am a student and software developer.
 
 Below are links to some of my projects:
 
-1. [Hangman](https://github.com/KeanuHansen/HangmanAssignment/edit/main/README.md)
+1. [Hangman](https://github.com/KeanuHansen/HangmanAssignment/blob/main/README.md)
 
 2. [Brads Bank](https://github.com/KeanuHansen/BradsBank/blob/master/KeanusREADME.md)
 
